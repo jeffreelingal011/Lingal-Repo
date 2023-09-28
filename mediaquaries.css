@@ -123,4 +123,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
         }
+
+     @media handheld,
+         only screen and (max-width: 767px) {
+             //mobile version css
+    }
+
+        @media handheld,
+        only screen and (max-width: 1024px) {
+            //Style goes here
+        }
     }
