@@ -120,10 +120,7 @@
         text-align: justify;
     }
 
-        @media handheld,
-        only screen and (max-width: 1024px) {
-            //Style goes here
-        }
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
         }
-}
+    }
